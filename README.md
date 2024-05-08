@@ -1,1 +1,1 @@
-This is a miro clone. For leanring purpose.
+This is a miro clone. For learning purpose.
